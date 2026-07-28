@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/SHYAM-A/">
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A101F" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
