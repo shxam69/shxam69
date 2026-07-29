@@ -1,45 +1,30 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "name": "Academic Intelligence Platform",
+    "repo": "shxam69/academic-intelligence-platform",
+    "logo": "academic.png",
+    "description": "AI-powered marksheet processing platform with OCR, automation, and analytics.",
+    "tags": ["React", "Node.js", "Gemini", "OCR"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "name": "NIEVROX-N",
+    "repo": "",
+    "logo": "nievrox.png",
+    "description": "Private SaaS platform for WhatsApp automation, workflow orchestration, and business process automation.",
+    "tags": ["React", "Node.js", "Supabase", "SaaS", "Private"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "name": "AIVOA HCP CRM",
+    "repo": "",
+    "logo": "aivoa.png",
+    "description": "Enterprise healthcare CRM with AI-assisted interaction management.",
+    "tags": ["React", "Spring Boot", "AI", "CRM", "Private"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
-  },
-  {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
-  },
-  {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "name": "Prob-PSENN",
+    "repo": "shxam69/Prob-PSENN",
+    "logo": "probpsenn.png",
+    "description": "Prototype-based self-explainable neural network research project.",
+    "tags": ["Python", "PyTorch", "Explainable AI"]
   }
 ]
-
