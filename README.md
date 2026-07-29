@@ -73,9 +73,9 @@
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
- <a href="https://wa.me/919543204277">
-  <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A101F" alt="WhatsApp" />
-
+<a href="https://update-portfolio-gamma.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A101F" alt="Portfolio" />
+</a>
 </a>
 </div>
 
