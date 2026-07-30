@@ -45,6 +45,20 @@
 </picture>
 
 </div>
+<!-- ===================== LEETCODE ===================== -->
+
+<h2 align="center">🧩 LeetCode Journey</h2>
+
+<p align="center">
+Sharpening problem-solving skills one challenge at a time.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/SHYAM-A/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/SHYAM-A?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
 
 <!-- ===== END SNAKE ===== -->
 <br/>
@@ -53,15 +67,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/shxam69/shxam69/projects/projects.svg" alt="Projects" />
 </div>
 
-<!-- ===================== LEETCODE ===================== -->
-
-<h2 align="center">🧩 LeetCode</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/SHYAM-A/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SHYAM-A?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats"/>
-  </a>
-</p>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
