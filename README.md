@@ -47,17 +47,17 @@
 </div>
 <!-- ===================== LEETCODE ===================== -->
 
-<h2 align="center">🧩 LeetCode Journey</h2>
+<div align="center">
 
-<p align="center">
-Sharpening problem-solving skills one challenge at a time.
+<h2>🧩 LeetCode Stats</h2>
+
+<p>
+<i>Sharpening problem-solving skills one challenge at a time.</i>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/SHYAM-A/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SHYAM-A?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats"/>
-  </a>
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/shxam69/shxam69/leetcode/leetcode.svg" alt="LeetCode Stats"/>
+
+</div>
 
 
 <!-- ===== END SNAKE ===== -->
