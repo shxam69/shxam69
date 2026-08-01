@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shxam69/shxam69/main/light.svg">
   <img alt="SHYAM A" src="https://raw.githubusercontent.com/shxam69/shxam69/main/light.svg">
 </picture>
-
+<br>
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
