@@ -2,12 +2,13 @@
 
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shxam69/shxam69/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shxam69/shxam69/main/light.svg">
-  <img alt="SHYAM A" src="https://raw.githubusercontent.com/shxam69/shxam69/main/light.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shxam69/particle-morph-svg-engine/main/output/animated_profile.svg">
+
+    <img
+      src="https://raw.githubusercontent.com/shxam69/particle-morph-svg-engine/main/output/animated_profile.svg">
 </picture>
 <br>
 <!-- ===== GITHUB STATS ===== -->
