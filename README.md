@@ -2,12 +2,16 @@
 
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shxam69/particle-morph-svg-engine/main/output/animated_profile.svg">
-</picture>
-<br>
+<div align="center">
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/shxam69/particle-morph-svg-engine/main/output/animated_profile.svg"
+  alt="Particle Morph SVG Hero" />
+
+</div>
+
+<br/>
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
@@ -60,42 +64,6 @@
 </a>
 
 </div>
-## 🚀 Featured Open Source
-
-<div align="center">
-
-<a href="https://github.com/shxam69/particle-morph-svg-engine">
-
-<img width="100%"
-src="https://raw.githubusercontent.com/shxam69/particle-morph-svg-engine/main/output/animated_profile.svg"/>
-
-</a>
-
-### Particle Morph SVG Engine
-
-A feature-aware particle animation compiler that transforms portraits and SVG logos into smooth animated SVGs using graph routing, timeline compilation, and SMIL rendering.
-
-⭐ Highlights
-
-• Feature-aware SVG sampling
-
-• Multi-stage particle morphing
-
-• Timeline compiler
-
-• Pure SVG renderer
-
-• MIT Licensed
-
-<a href="https://github.com/shxam69/particle-morph-svg-engine">
-
-Explore the repository →
-
-</a>
-
-</div>
-
-
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
