@@ -1,6 +1,4 @@
 
-
-
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <div align="center">
 
